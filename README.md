@@ -1,5 +1,6 @@
 # small-chat-socket
 
+# Two different persons can chat
 Two folders client, and server.
 ```
 cd client
